@@ -1,0 +1,23 @@
+{"type":"plugin::users-permissions.permission","id":1,"data":{"action":"plugin::users-permissions.user.me","createdAt":"2023-10-14T17:50:33.972Z","updatedAt":"2023-10-14T17:50:33.972Z"}}
+{"type":"plugin::users-permissions.permission","id":2,"data":{"action":"plugin::users-permissions.auth.changePassword","createdAt":"2023-10-14T17:50:33.972Z","updatedAt":"2023-10-14T17:50:33.972Z"}}
+{"type":"plugin::users-permissions.permission","id":3,"data":{"action":"plugin::users-permissions.auth.callback","createdAt":"2023-10-14T17:50:34.016Z","updatedAt":"2023-10-14T17:50:34.016Z"}}
+{"type":"plugin::users-permissions.permission","id":4,"data":{"action":"plugin::users-permissions.auth.connect","createdAt":"2023-10-14T17:50:34.016Z","updatedAt":"2023-10-14T17:50:34.016Z"}}
+{"type":"plugin::users-permissions.permission","id":5,"data":{"action":"plugin::users-permissions.auth.forgotPassword","createdAt":"2023-10-14T17:50:34.016Z","updatedAt":"2023-10-14T17:50:34.016Z"}}
+{"type":"plugin::users-permissions.permission","id":6,"data":{"action":"plugin::users-permissions.auth.resetPassword","createdAt":"2023-10-14T17:50:34.016Z","updatedAt":"2023-10-14T17:50:34.016Z"}}
+{"type":"plugin::users-permissions.permission","id":7,"data":{"action":"plugin::users-permissions.auth.register","createdAt":"2023-10-14T17:50:34.016Z","updatedAt":"2023-10-14T17:50:34.016Z"}}
+{"type":"plugin::users-permissions.permission","id":8,"data":{"action":"plugin::users-permissions.auth.emailConfirmation","createdAt":"2023-10-14T17:50:34.016Z","updatedAt":"2023-10-14T17:50:34.016Z"}}
+{"type":"plugin::users-permissions.permission","id":9,"data":{"action":"plugin::users-permissions.auth.sendEmailConfirmation","createdAt":"2023-10-14T17:50:34.016Z","updatedAt":"2023-10-14T17:50:34.016Z"}}
+{"type":"plugin::users-permissions.permission","id":10,"data":{"action":"api::restaurant.restaurant.find","createdAt":"2023-10-14T18:20:32.062Z","updatedAt":"2023-10-14T18:20:32.062Z"}}
+{"type":"plugin::users-permissions.permission","id":11,"data":{"action":"api::restaurant.restaurant.findOne","createdAt":"2023-10-14T18:20:32.062Z","updatedAt":"2023-10-14T18:20:32.062Z"}}
+{"type":"plugin::users-permissions.permission","id":12,"data":{"action":"api::category.category.find","createdAt":"2023-10-14T18:20:38.334Z","updatedAt":"2023-10-14T18:20:38.334Z"}}
+{"type":"plugin::users-permissions.permission","id":13,"data":{"action":"api::category.category.findOne","createdAt":"2023-10-14T18:20:38.334Z","updatedAt":"2023-10-14T18:20:38.334Z"}}
+{"type":"plugin::users-permissions.permission","id":14,"data":{"action":"api::category.category.find","createdAt":"2023-10-14T18:24:51.847Z","updatedAt":"2023-10-14T18:24:51.847Z"}}
+{"type":"plugin::users-permissions.permission","id":15,"data":{"action":"api::category.category.findOne","createdAt":"2023-10-14T18:24:51.847Z","updatedAt":"2023-10-14T18:24:51.847Z"}}
+{"type":"plugin::users-permissions.permission","id":16,"data":{"action":"api::restaurant.restaurant.find","createdAt":"2023-10-14T18:24:56.812Z","updatedAt":"2023-10-14T18:24:56.812Z"}}
+{"type":"plugin::users-permissions.permission","id":17,"data":{"action":"api::restaurant.restaurant.findOne","createdAt":"2023-10-14T18:24:56.812Z","updatedAt":"2023-10-14T18:24:56.812Z"}}
+{"type":"plugin::users-permissions.role","id":1,"data":{"name":"Authenticated","description":"Default role given to authenticated user.","type":"authenticated","createdAt":"2023-10-14T17:50:33.949Z","updatedAt":"2023-10-14T18:24:21.494Z"}}
+{"type":"plugin::users-permissions.role","id":2,"data":{"name":"Public","description":"Default role given to unauthenticated user.","type":"public","createdAt":"2023-10-14T17:50:33.960Z","updatedAt":"2023-10-14T18:24:56.780Z"}}
+{"type":"plugin::i18n.locale","id":1,"data":{"name":"English (en)","code":"en","createdAt":"2023-10-14T17:50:34.156Z","updatedAt":"2023-10-14T17:50:34.156Z"}}
+{"type":"api::category.category","id":1,"data":{"name":"French Food","createdAt":"2023-10-14T18:13:38.905Z","updatedAt":"2023-10-14T18:22:07.955Z","publishedAt":"2023-10-14T18:22:07.953Z"}}
+{"type":"api::category.category","id":2,"data":{"name":"Brunch ","createdAt":"2023-10-14T18:13:55.342Z","updatedAt":"2023-10-14T18:22:00.372Z","publishedAt":"2023-10-14T18:22:00.370Z"}}
+{"type":"api::restaurant.restaurant","id":1,"data":{"name":"Biscotte Restaurant","description":"Welcome to Biscotte restaurant! Restaurant Biscotte offers a cuisine based on fresh, quality products, often local, organic when possible, and always produced by passionate producers.","createdAt":"2023-10-14T18:12:28.971Z","updatedAt":"2023-10-14T18:22:17.439Z","publishedAt":"2023-10-14T18:22:17.437Z"}}
